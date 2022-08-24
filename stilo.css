@@ -1,0 +1,25 @@
+header{
+    background-color: rgb(117, 45, 105);
+    width: 100%;
+}
+
+nav{
+    background-color: rgb(141, 76, 33);
+    width: 100%;
+}
+
+article{
+    background-color: rgb(64, 103, 187);
+    width: 100%; 
+}
+
+section{
+    background-color: rgb(34, 148, 72);
+    width: 100%; 
+}
+
+footer{
+    background-color: rgb(37, 24, 114);
+    width: 100%; 
+
+}
